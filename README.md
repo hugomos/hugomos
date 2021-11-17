@@ -52,6 +52,9 @@
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=hug0_m0s&layout=wide&show_reply=off&show_retweet=off" />
+<!-- <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=hug0_m0s&layout=wide&show_reply=off&show_retweet=off" /> -->
+<br><br>
+
+## 💻 &nbsp;Contribution activity
 
 ![Snake animation](https://github.com/Vitor0Sant0s/Vitor0Sant0s/blob/output/github-contribution-grid-snake.svg)
