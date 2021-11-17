@@ -1,4 +1,4 @@
-<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/Vitor0Sant0s/4526b146e1a6b1f7a6be183ed5594d40/raw/fe34512290c5a3f24f1faadc4ffb90e4c63c2ed4/githubcard.svg"/>
+<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/Vitor0Sant0s/4526b146e1a6b1f7a6be183ed5594d40/raw/fe34512290c5a3f24f1faadc4ffb90e4c63c2ed4/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vitor O. Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vit0r0Sant0s&color=yellow" alt="Profile views" /> </p>
 
