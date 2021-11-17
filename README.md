@@ -41,17 +41,14 @@
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Vit0r0Sant0s-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://twitter.com/hug0_m0s" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Vit0r0Sant0s-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/vitor-oliveira-517797212" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Vit0r0Sant0s-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://instagram.com/hugo_mos" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Vit0r0Sant0s-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
