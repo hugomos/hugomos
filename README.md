@@ -42,13 +42,13 @@
   <img align="center" src="https://img.shields.io/badge/-Vit0r0Sant0s-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/hug0_m0s" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Vit0r0Sant0s-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-hug0_m0s-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/vitor-oliveira-517797212" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Vit0r0Sant0s-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-VitorOliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/hugo_mos" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Vit0r0Sant0s-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-hugo_mos-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
