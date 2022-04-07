@@ -6,21 +6,21 @@
 
 - 🔭 I’m currently working at [Athenas Agricola](https://athenasagricola.com.br/)
 
-- 👨‍💻 All of my projects are available at [GitHub repositories]
+- 👨‍💻 All of my projects are available in my [Portfolio](https://vitor0sant0s.vercel.app)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, and Philosophy** if you feel like it
+- 💬 Ask me about **Pythton, JavaScript and Design Patterns** if you feel like it
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostegreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
@@ -34,20 +34,20 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 😉 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/vitor0sant0s" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Vit0r0Sant0s-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-codepen-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/hug0_m0s" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-hug0_m0s-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/vitor-oliveira-517797212" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-VitorOliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/Vitor0Sant0s" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/hugo_mos" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-hugo_mos-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
