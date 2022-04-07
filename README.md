@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://vitor0sant0s.vercel.app)
 
-- 💬 Ask me about **Pythton, JavaScript and Design Patterns** if you feel like it
+- 💬 Ask me about **Python, JavaScript and Design Patterns** if you feel like it
 
 <br><br>
 
