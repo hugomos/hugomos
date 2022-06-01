@@ -1,5 +1,5 @@
 <!-- <img align="right" height="560em" src="https://raw.githubusercontent.com/gist/Vitor0Sant0s/4526b146e1a6b1f7a6be183ed5594d40/raw/68cb4603bfcf724440b1eadc04d62dda15622a30/githubcard.svg"/> -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vitor O. Santos</h1>
+<h1 align="left">Hi , I'm Vitor O. Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vit0r0Sant0s&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer focused on the study and improvement of this world 
