@@ -2,13 +2,13 @@
 <h1 align="left">Hi , I'm Vitor O. Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vit0r0Sant0s&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer focused on the study and improvement of this world 
+- 🔥 Junior Software Developer focused on the study and improvement of this world 
 
 - 🔭 I’m currently working at [Athenas Agricola](https://athenasagricola.com.br/)
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://vitor0sant0s.vercel.app)
 
-- 💬 Ask me about **Python, JavaScript and Design Patterns** if you feel like it
+- 💬 Ask me about **Python, JavaScript and React Native** if you feel like it
 
 <br><br>
 
@@ -39,9 +39,6 @@
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/vitor0sant0s" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-codepen-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/hug0_m0s" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/Vitor0Sant0s" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
