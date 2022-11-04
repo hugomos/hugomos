@@ -1,54 +1,48 @@
-<!-- <img align="right" height="560em" src="https://raw.githubusercontent.com/gist/Vitor0Sant0s/4526b146e1a6b1f7a6be183ed5594d40/raw/68cb4603bfcf724440b1eadc04d62dda15622a30/githubcard.svg"/> -->
-<h1 align="left">Hi , I'm Vitor O. Santos</h1>
+![banner](assets/banner.png)
+<h1 align="left">Hi , I'm Vitor Hugo O. Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vit0r0Sant0s&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Software Developer focused on the study and improvement of this world 
+- 🔥 Junior Software Developer Mobile | Backend | Frontend | API 
 
-- 🔭 I’m currently working at [Athenas Agricola](https://athenasagricola.com.br/)
+- 🔭 I am currently working as an IT intern at [Athenas Agricola](https://athenasagricola.com.br/)
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://vitor0sant0s.vercel.app)
-
-- 💬 Ask me about **Python, JavaScript and React Native** if you feel like it
+<!-- - 👨‍💻 All of my projects are available in my [Portfolio](https://vitor0sant0s.vercel.app) -->
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostegreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="React and React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+</div>
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="520em" src="https://github-readme-stats.vercel.app/api?username=Vitor0Sant0s&show_icons=true&theme=tokyonight" alt="Vit0r0Sant0s's stats"/>
-<img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0Sant0s&layout=compact&theme=tokyonight" alt="Vit0r0Sant0s's most languages"/>
+<p align="start">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Vitor0Sant0s&show_icons=true&theme=tokyonight" alt="Vit0r0Sant0s's stats"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0Sant0s&layout=compact&theme=tokyonight" alt="Vit0r0Sant0s's most languages"/>
 </p>
 
 <br><br>
 
 ## 😉 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/vitor0sant0s" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-codepen-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://linkedin.com/in/Vitor0Sant0s" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/hugo_mos" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vitor_osantos@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hugomos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-<!-- <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=hug0_m0s&layout=wide&show_reply=off&show_retweet=off" /> -->
 <br><br>
 
 ## 💻 &nbsp;Contribution activity
