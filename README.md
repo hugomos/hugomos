@@ -26,13 +26,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="start">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Vitor0Sant0s&show_icons=true&theme=tokyonight" alt="Vit0r0Sant0s's stats"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0Sant0s&layout=compact&theme=tokyonight" alt="Vit0r0Sant0s's most languages"/>
-</p>
-
 <br><br>
 
 ## 😉 &nbsp;Social Links
