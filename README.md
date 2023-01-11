@@ -1,23 +1,25 @@
 ![banner](assets/banner.png)
-<h1 align="left">Hi , I'm Vitor Hugo O. Santos</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vit0r0Sant0s&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Hello, my name is Vitor Hugo 🤘</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vit0r0Sant0s&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Junior Software Developer Mobile | Backend | Frontend | API 
+- 🔥 Junior Software Developer Mobile | Backend | Frontend | API
 
 - 🔭 I am currently working as an IT intern at [Athenas Agricola](https://athenasagricola.com.br/)
 
-<!-- - 👨‍💻 All of my projects are available in my [Portfolio](https://vitor0sant0s.vercel.app) -->
+- 📐 Studying Bachelor of Science in Computer Science at the [University of São Paulo](https://www.unip.br/)
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="React and React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="background-color: white">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
