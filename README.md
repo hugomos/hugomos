@@ -6,7 +6,7 @@
 
 - 🔭 I am currently working as an IT intern at [Athenas Agricola](https://athenasagricola.com.br/)
 
-- 📐 Studying Bachelor of Science in Computer Science at the [University of São Paulo](https://www.unip.br/)
+- 📐 Studying Bachelor of Science in Computer Science at the [Universidade Paulista](https://www.unip.br/)
 
 <br><br>
 
