@@ -30,7 +30,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-
+<!-- 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
@@ -45,7 +45,7 @@
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0Sant0s&count_private=true&theme=transparent&layout=compact" 
     />
   </a>
-</div>
+</div> -->
 
 <!--
 
