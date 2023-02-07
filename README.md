@@ -28,35 +28,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<!-- 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-       align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=Vitor0Sant0s&count_private=true&show_icons=true&theme=transparent" 
-   />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-         align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0Sant0s&count_private=true&theme=transparent&layout=compact" 
-    />
-  </a>
-</div> -->
-
-<!--
-
-<p align="start">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Vitor0Sant0s&show_icons=true&theme=tokyonight" alt="Vit0r0Sant0s's stats"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0Sant0s&layout=compact&theme=tokyonight" alt="Vit0r0Sant0s's most languages"/>
-</p>
--->
-
-<br><br>
-
 ## 😉 &nbsp;Social Links
 
 <div> 
