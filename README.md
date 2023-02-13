@@ -28,6 +28,15 @@
 
 <br><br>
 
+
+<div>
+  <a href="https://github.com/hugomos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomos&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<br><br>
+  
 ## 😉 &nbsp;Social Links
 
 <div> 
@@ -35,14 +44,8 @@
   <a href = "mailto:vitor_osantos@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugomos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<br><br>
-
+  
+ <br><br>
 ## 💻 &nbsp;Contribution activity
-<div>
-  <a href="https://github.com/hugomos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomos&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<!-- ![Snake animation](https://github.com/Vitor0Sant0s/Vitor0Sant0s/blob/output/github-contribution-grid-snake.svg) -->
+  
+![Snake animation](https://github.com/hugomos/hugomos/blob/output/github-contribution-grid-snake.svg)
