@@ -1,4 +1,4 @@
-![banner](assets/banner.png)
+![banner](.github/assets/images/banner.png)
 <br><br>
 
 Hello! 👋 Welcome to my GitHub profile. Here you will find some of my projects and information about my experience and skills. Feel free to explore, collaborate, and get in touch with me. Let's get started!
@@ -18,15 +18,6 @@ An amazing Pomodoro app developed as a module completion project for the Rockets
 A simple and functional blog page, developed as a personal project. It utilizes GitHub issues as a source for creating posts, allowing for practical and collaborative content sharing. With a clean and intuitive design, this page offers a straightforward experience for reading and interacting with posts.
 
 **Stack**: Next.js, styled-components
-
-<!-- 
-<br><br>
-
-<div>
-  <a href="https://github.com/hugomos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomos&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
 
 ## Contact
 
