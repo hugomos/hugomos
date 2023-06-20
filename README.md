@@ -26,8 +26,6 @@ Feel free to get in touch with me. I'm always open to discussions, collaboration
 - Email: [vitor_osantos@hotmail.com](mailto:vitor_osantos@hotmail.com)
 - LinkedIn: [hugomos](https://www.linkedin.com/in/hugomos/)
 
-Alternatively, you can send me a direct message here on GitHub.
-
 ## 💻 &nbsp;Contribution activity
   
 ![Snake animation](https://github.com/hugomos/hugomos/blob/output/github-contribution-grid-snake.svg)
