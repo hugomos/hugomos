@@ -5,16 +5,18 @@ Hello! 👋 Welcome to my GitHub profile. Here you will find some of my projects
 
 My name is **Vitor Oliveira**, and I'm a technology enthusiast passionate about software development. My journey started some time ago, and since then I've been working on exciting and challenging projects that have helped me grow as a developer. I love learning new things and applying that knowledge to interesting projects.
 
+Currently, I'm an IT intern at the company [Athenas Consultoria Agrícola e Laboratorio](https://www.linkedin.com/company/athenas-consultoria-agricola-e-laboratorio/mycompany/)
+
 ## Featured Projects
 
 Here are some of my most recent and exciting projects:
 
-### [ignite-challenge-todo](https://todo-ignite-challenge-two.vercel.app/)
-An amazing Pomodoro app developed as a module completion project for the Rocketseat Ignite ReactJS bootcamp. It helps you organize your time effectively using the Pomodoro technique to increase productivity and focus. With an easy-to-use interface and customizable features, this app transforms how you manage your daily tasks
+### [Ignite Challenge - Todo](https://todo-ignite-challenge-two.vercel.app/)
+The To-Do project is a challenge proposed in the React module of the Ignite Bootcamp, offered by the Rocketseat platform. In this challenge, participants are invited to create a to-do list application using technologies such as Vite, TypeScript, and Styled Components.
 
-**Stack**: ReactJS, Typescript, styled-components 
+**Stack**: Vite, Typescript, styled-components 
 
-### [github-blog](https://githubblog.vercel.app/)
+### [Github Blog](https://githubblog.vercel.app/)
 A simple and functional blog page, developed as a personal project. It utilizes GitHub issues as a source for creating posts, allowing for practical and collaborative content sharing. With a clean and intuitive design, this page offers a straightforward experience for reading and interacting with posts.
 
 **Stack**: Next.js, styled-components
