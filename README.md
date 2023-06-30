@@ -1,4 +1,4 @@
-![banner](.github/assets/images/banner.png)
+![banner](.github/assets/banner.png)
 <br><br>
 
 Hello! 👋 Welcome to my GitHub profile. Here you will find some of my projects and information about my experience and skills. Feel free to explore, collaborate, and get in touch with me. Let's get started!
