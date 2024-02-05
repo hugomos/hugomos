@@ -1,20 +1,14 @@
 ![banner](.github/assets/banner.png)
 <br><br>
 
-Hello! 👋 Welcome to my GitHub profile. Here you will find some of my projects and information about my experience and skills. Feel free to explore, collaborate, and get in touch with me. Let's get started!
+# Hi, I'm hugomos 👋
 
-My name is **Vitor Oliveira**, and I'm a technology enthusiast passionate about software development. My journey started some time ago, and since then I've been working on exciting and challenging projects that have helped me grow as a developer. I love learning new things and applying that knowledge to interesting projects.
-
-Currently, I'm an IT intern at the company [Athenas Consultoria Agrícola e Laboratorio](https://www.linkedin.com/company/athenas-consultoria-agricola-e-laboratorio/mycompany/)
+I am a software developer, technology enthusiast, and very practical. Currently, I work in the development team at [Athenas Consultoria Agrícola e Laboratórios](https://athenasagricola.com.br), where I build tools and plugins focused on precision agriculture. I use [Python](https://www.python.org), [Typescript](https://www.typescriptlang.org), [QGIS](https://qgis.org/pt_BR/site/), and [ArcGIS](https://www.esri.com/pt-br/arcgis/about-arcgis/overview) in the development of these solutions.
 
 ## Contact
 
 Feel free to get in touch with me. I'm always open to discussions, collaborations, or any other interaction related to software projects. You can find me on the following channels:
 
-- Site: [Portfolio](https://hugomos.vercel.app)
-- Email: [vitor_osantos@hotmail.com](mailto:vitor_osantos@hotmail.com)
-- LinkedIn: [hugomos](https://www.linkedin.com/in/hugomos/)
-
-## 💻 &nbsp;Contribution activity
-  
-![Snake animation](https://github.com/hugomos/hugomos/blob/output/github-contribution-grid-snake.svg)
+- e-mail - [vitor_osantos@hotmail.com](mailto:vitor_osantos@hotmail.com)
+- linkedin - [/in/hugomos/](https://www.linkedin.com/in/hugomos/)
+- portfolio - [hugomos.com](https://www.hugomos.com/)
