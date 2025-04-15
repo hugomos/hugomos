@@ -1,14 +1,20 @@
-![banner](.github/assets/banner.png)
-<br><br>
 
-# Hi, I'm hugomos 👋
+# Hi, I'm Vitor Hugo 👋
 
-I am a software developer, technology enthusiast, and very practical. Currently, I work in the development team at [Athenas Consultoria Agrícola e Laboratórios](https://athenasagricola.com.br), where I build tools and plugins focused on precision agriculture. I use [Python](https://www.python.org), [Typescript](https://www.typescriptlang.org), [QGIS](https://qgis.org/pt_BR/site/), and [ArcGIS](https://www.esri.com/pt-br/arcgis/about-arcgis/overview) in the development of these solutions.
+I’m a developer with a focus on Python and TypeScript, and I work extensively with QGIS and ArcMap. Currently, I serve as a Support Analyst at [Athenas Consultoria Agrícola e Laboratórios](https://athenasagricola.com.br), contributing to the creation and maintenance of tools essential for the industry, including plugins that enable geometry transformation, route generation, and task creation based on georeferenced points.
 
-## Contact
+## What I Do
 
-Feel free to get in touch with me. I'm always open to discussions, collaborations, or any other interaction related to software projects. You can find me on the following channels:
+- **QGIS Plugin Development**: Integrating various features to streamline geospatial data collection and analysis.
+- **Supporting Precision Agriculture Solutions**: Providing technical and operational support for tools that aid strategic decision-making in agriculture.
 
-- e-mail - [vitor_osantos@hotmail.com](mailto:vitor_osantos@hotmail.com)
-- linkedin - [/in/hugomos/](https://www.linkedin.com/in/hugomos/)
-- portfolio - [hugomos.com](https://www.hugomos.com/)
+*Side Project: Exploring data analysis, statistics, and machine learning algorithms with the goal of developing a recommendation system based on psychological profiles.*
+
+## Connect With Me
+
+- [LinkedIn: /in/hugomos](https://www.linkedin.com/in/hugomos/)
+
+---
+
+> "Stay hungry, stay foolish."  
+> — Steve Jobs
