@@ -1,4 +1,4 @@
-![banner](.github/assets/background.png)
+![banner](.github/assets/Banner.png)
 # Hi, I'm Vitor Hugo 👋
 
 I’m a developer with a focus on Python and TypeScript, and I work extensively with QGIS and ArcMap. Currently, I serve as a Support Analyst at [Athenas Consultoria Agrícola e Laboratórios](https://athenasagricola.com.br), contributing to the creation and maintenance of tools essential for the industry, including plugins that enable geometry transformation, route generation, and task creation based on georeferenced points.
