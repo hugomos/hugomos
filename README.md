@@ -1,7 +1,5 @@
 ![banner](.github/assets/banner.png)
 
-# Vitor Hugo
-
 Backend Developer com foco em **Python** e **TypeScript**, especializado em soluções geoespaciais e automação de processos. Atualmente atuando como Support Analyst na [Athenas Consultoria Agrícola e Laboratórios](https://athenasagricola.com.br), onde desenvolvo features para API e plugins QGIS, além de relatórios automatizados para o laboratório.
 
 ## Stack Principal
