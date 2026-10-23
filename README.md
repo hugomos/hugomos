@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](./.github/assets/hugomos.png)
+![banner](./hugomos.png)
 
 # Vitor Hugo Oliveira
 
